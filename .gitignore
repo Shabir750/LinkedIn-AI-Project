@@ -11,3 +11,7 @@ venv/
 
 # VS Code local settings
 .vscode/
+# Local dataset files
+data/linkedin_ai_dataset/images/
+data/linkedin_ai_dataset/processed_images/
+data/linkedin_ai_dataset/*.csv
