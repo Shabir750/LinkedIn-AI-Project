@@ -15,3 +15,4 @@ venv/
 data/linkedin_ai_dataset/images/
 data/linkedin_ai_dataset/processed_images/
 data/linkedin_ai_dataset/*.csv
+data/linkedin_ai_dataset/*.png
